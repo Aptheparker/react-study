@@ -1,4 +1,4 @@
-/01-starting-project 2/node_modules
+# node_modules
+/01-starting-project/node_modules
 /01-starting-setup/node_modules
-
 /.DS_Store
