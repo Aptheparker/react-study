@@ -1,5 +1,7 @@
+// hooks
 import { useState } from "react";
 
+// components
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 

@@ -1,5 +1,7 @@
+// components
 import ExpenseItem from "./ExpenseItem";
 
+// css
 import "./ExpensesList.css";
 
 const ExpensesList = (props) => {

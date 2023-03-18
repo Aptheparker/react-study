@@ -1,6 +1,7 @@
 // css
 import "./Chart.css";
-// files
+
+// components
 import ChartBar from "./ChartBar";
 
 const Chart = (props) => {

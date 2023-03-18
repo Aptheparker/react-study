@@ -1,7 +1,11 @@
-import React, { useState } from 'react';
+// hooks
+import { useState } from 'react';
 
+// components
 import CourseGoalList from './components/CourseGoals/CourseGoalList/CourseGoalList';
 import CourseInput from './components/CourseGoals/CourseInput/CourseInput';
+
+//css
 import './App.css';
 
 const App = () => {

@@ -1,10 +1,13 @@
+// hooks
 import { useState } from "react";
 
+// components
 import ExpenseList from "./ExpensesList";
 import Card from "../UI/Card";
 import ExpensesFilter from "./ExpensesFilter";
 import ExpensesChart from "./ExpensesChart";
 
+// css
 import "./Expenses.css";
 
 function Expenses(props) {

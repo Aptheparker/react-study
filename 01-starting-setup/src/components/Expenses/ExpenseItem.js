@@ -1,6 +1,8 @@
+// components
 import ExpenseDate from "./ExpenseDate";
 import Card from "../UI/Card";
 
+// css
 import "./ExpenseItem.css";
 
 function ExpenseItem(props) {

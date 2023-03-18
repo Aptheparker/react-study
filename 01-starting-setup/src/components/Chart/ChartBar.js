@@ -1,8 +1,6 @@
 //css
 import "./ChartBar.css";
 
-//files
-
 const ChartBar = (props) => {
   let barFillHeight = "0%";
 
