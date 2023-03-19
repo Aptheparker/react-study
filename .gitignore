@@ -1,7 +1,7 @@
 # node_modules
-/01-starting-project/node_modules
-/01-starting-project-2/node_modules
-/01-starting-setup/node_modules
+/shopping-mall/node_modules
+/course-goal/node_modules
+/add-user/node_modules
 
 
 /.DS_Store
