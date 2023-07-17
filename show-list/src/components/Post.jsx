@@ -1,8 +1,11 @@
-function Post() {
+const names = ["AP", "SP"]
+
+function Post(props) {
+
   return (
     <div>
-      <p>AP</p>
-      <p>React.js is awesome!</p>
+      <p>{props.author}</p>
+      <p>{props.body}</p>
     </div>
   );
 }
