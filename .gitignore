@@ -3,6 +3,7 @@
 /course-goal/node_modules
 /add-user/node_modules
 /show-list/node_modules
+/dummy-backend/node_modules
 
 
 /.DS_Store
