@@ -4,6 +4,7 @@
 /add-user/node_modules
 /show-list/node_modules
 /dummy-backend/node_modules
+/login-page/node_modules
 
 
 /.DS_Store
