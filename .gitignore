@@ -5,6 +5,7 @@
 /show-list/node_modules
 /dummy-backend/node_modules
 /login-page/node_modules
+/food-order/node_modules
 
 
 /.DS_Store
