@@ -4,7 +4,7 @@ import mealsImage from '../../assets/meals.jpg';
 // css
 import classes from './Header.module.css';
 
-const Header = () => {
+const Header = () => { // stop
 
   return (
     <>
